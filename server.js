@@ -20,6 +20,7 @@ app.get('/', function (req, res) {
 });
 
 app.get('/propsdemo', function (req, res) {
+  console.log('get props demo')
   res.sendFile(path.join(__dirname, 'demos', 'props-demo', 'index.html'));
   res.status(200)
 });

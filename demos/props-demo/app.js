@@ -12,7 +12,7 @@ let _mx, _my;
 let drawing;
 
 const maintxt = new Image()
-maintxt.src = `http://localhost:3000//props-demo/props-demo-main.svg`
+maintxt.src = `https://christopherfotos.herokuapp.com/props-demo/props-demo-main.svg`
 
 
 function limit(){
