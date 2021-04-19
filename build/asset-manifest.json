@@ -1,15 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.fa9d7007.chunk.css",
-    "main.js": "/static/js/main.4d3af71a.chunk.js",
-    "main.js.map": "/static/js/main.4d3af71a.chunk.js.map",
+    "main.css": "/static/css/main.26f6b295.chunk.css",
+    "main.js": "/static/js/main.a0fd6004.chunk.js",
+    "main.js.map": "/static/js/main.a0fd6004.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.4b93058a.js",
     "runtime-main.js.map": "/static/js/runtime-main.4b93058a.js.map",
     "static/js/2.6a14d6ad.chunk.js": "/static/js/2.6a14d6ad.chunk.js",
     "static/js/2.6a14d6ad.chunk.js.map": "/static/js/2.6a14d6ad.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.fa9d7007.chunk.css.map": "/static/css/main.fa9d7007.chunk.css.map",
+    "static/css/main.26f6b295.chunk.css.map": "/static/css/main.26f6b295.chunk.css.map",
     "static/js/2.6a14d6ad.chunk.js.LICENSE.txt": "/static/js/2.6a14d6ad.chunk.js.LICENSE.txt",
+    "static/media/GoL.6b70babb.svg": "/static/media/GoL.6b70babb.svg",
     "static/media/App.scss": "/static/media/RobotoSlab.27a558ea.ttf",
     "static/media/bb.fd10a702.svg": "/static/media/bb.fd10a702.svg",
     "static/media/gh.37e6b744.png": "/static/media/gh.37e6b744.png",
@@ -27,7 +28,7 @@
   "entrypoints": [
     "static/js/runtime-main.4b93058a.js",
     "static/js/2.6a14d6ad.chunk.js",
-    "static/css/main.fa9d7007.chunk.css",
-    "static/js/main.4d3af71a.chunk.js"
+    "static/css/main.26f6b295.chunk.css",
+    "static/js/main.a0fd6004.chunk.js"
   ]
 }
